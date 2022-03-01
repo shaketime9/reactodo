@@ -87,11 +87,15 @@
 
 }
 .deal-item{
-  justify-content:space-around;
-  margin-left: 175px;
-  font-size: 19px;
-  color: #000000;
- 
+  background: #ffffff;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 8px 12px;
+  width: 100%;
+  font-size: 14px;
+  text-align: center;
+}
   }
 .completed{
   color: green;
